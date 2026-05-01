@@ -17,6 +17,7 @@ Requirements:
 - Python 3
 - Streamlit
 - FFmpeg installed at /usr/bin/ffmpeg
+- Vlans require PIM and Multicast routing 
 
 Storage:
 - Audio files saved to ~/streamlit/audio_uploads
